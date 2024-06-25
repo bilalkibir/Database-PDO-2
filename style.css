@@ -1,0 +1,52 @@
+ body {
+    background-color: black;
+
+}
+
+h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+table {
+    color: rgba(134, 134, 134, 0.87);
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    
+    
+
+}
+
+h2 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+p {
+    color: white;
+    display: flex;
+    justify-content: center;
+    border: 2px solid yellow;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+th {
+    background-color: rgb(42, 42, 42);
+    Font-size: 25px;
+    border: 1px solid gray;
+    
+    
+}
+
+td {
+    background-color: rgb(42, 42, 42);
+    Font-size: 25px;
+    border: 1px solid gray;
+    
+}
